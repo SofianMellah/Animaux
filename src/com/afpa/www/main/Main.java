@@ -9,6 +9,7 @@ public class Main {
         System.out.println("Bonjour");
         Truite truite = new Truite(5,5); 
         Truite truite = new Truite(5,5);
+        Truite truite = new Truite(5,5);
         System.out.println(truite);
         System.out.println(truite);
     }
